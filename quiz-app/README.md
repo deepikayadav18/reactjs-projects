@@ -1,5 +1,7 @@
-This is a quiz app. 
-Dependencies - reactjs 
+This is a quiz app.
+
+Dependencies - reactjs
+
 Funtionalities -
     On click on wrong answer correct one will show as well.
     Without clicking on any option will not able to forward on next question.
